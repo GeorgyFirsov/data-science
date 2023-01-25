@@ -4,20 +4,20 @@ Data science course labs and homeworks. National Research Nuclear University MEP
 
 ## Semester 1
 
-- [Data pre- and postprocessing][1]
-- [Associative rules (Apriori, FP-Growth)][2]
-- [Decision trees and ensembles][3]
-- [Clustering (KMeans and KMeans++)][4]
-- [Classification (KNN)][5]
+- [Lab 1: Data pre- and postprocessing][1]
+- [Lab 2: Associative rules (Apriori, FP-Growth)][2]
+- [Lab 3: Decision trees and ensembles][3]
+- [Lab 4: Clustering (KMeans and KMeans++)][4]
+- [Lab 5: Classification (KNN)][5]
 - [Big homework 1][6], [Big homework 2][7]
 
 ## Semester 2
 
-- [Linear regression via gradient descent][8]
-- [Logistic regression via gradient descent][9]
-- [Gradient boosting][10]
-- [Time series analysis][11]
-- [Feed forward neural networks][12]
+- [Lab 1: Linear regression via gradient descent][8]
+- [Lab 2: Logistic regression via gradient descent][9]
+- [Lab 3: Gradient boosting][10]
+- [Lab 4: Time series analysis][11]
+- [Lab 5: Feed forward neural networks][12]
 - [Big homework 1][13], [Big homework 2][14]
 
 
